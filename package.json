@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "electron": "^36.1.0"
+  },
+  "bundleDependencies": [
+    "electron"
+  ],
+  "name": "pagina-de-cadastro",
+  "description": "",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
